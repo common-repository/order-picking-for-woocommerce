@@ -1,0 +1,840 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#: includes/class-order-picking-for-woocommerce-screens.php:171
+#: includes/class-order-picking-for-woocommerce-screens.php:186
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2024-04-27 18:24+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Eazy Po 1.0.0.0\n"
+
+#: fulfillment.php:8
+msgid ""
+"Order picking is a WooCommerce add-on, you must activate a WooCommerce on "
+"your site."
+msgstr ""
+
+#: fulfillment.php:107
+msgid "picker"
+msgstr ""
+
+#: fulfillment.php:135
+msgid "Are you sure?"
+msgstr ""
+
+#: fulfillment.php:137
+msgid "hour"
+msgstr ""
+
+#: fulfillment.php:138
+msgid "hours"
+msgstr ""
+
+#: fulfillment.php:139
+msgid "mins"
+msgstr ""
+
+#: order-picking-for-woocommerce.php:168
+msgid ""
+"Order Picking For WooCommerce is a WooCommerce add-on, you must activate a "
+"WooCommerce on your site."
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:133
+#: admin/class-order-picking-for-woocommerce-admin.php:1114
+#: includes/class-order-picking-for-woocommerce-order-picking.php:240
+#: includes/class-order-picking-for-woocommerce-order-picking.php:255
+msgid "Order Picking"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:134
+#: includes/class-order-picking-for-woocommerce-screens.php:75
+msgid "Settings"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:138
+#: includes/class-order-picking-for-woocommerce-order-picking.php:46
+msgid "Awaiting fulfillment"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:139
+#: admin/class-order-picking-for-woocommerce-admin.php:421
+#: includes/class-order-picking-for-woocommerce-screens.php:66
+msgid "Picklist"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:140
+#: admin/class-order-picking-for-woocommerce-admin.php:414
+#: includes/class-order-picking-for-woocommerce-screens.php:63
+msgid "Reports"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:182
+#: includes/class-order-picking-for-woocommerce-screens.php:144
+msgid "Fulfillment by Order"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:183
+#: includes/class-order-picking-for-woocommerce-screens.php:145
+msgid "Fulfillment by Product"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:184
+#: includes/class-order-picking-for-woocommerce-screens.php:146
+msgid "Fulfillment by Category"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:186
+#: includes/class-order-picking-for-woocommerce-screens.php:140
+msgid "Awaiting Fulfillment"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:188
+#: includes/class-order-picking-for-woocommerce-screens.php:150
+msgid "Full screen"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:189
+#: includes/class-order-picking-for-woocommerce-screens.php:151
+msgid "Minimize screen"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:191
+#: admin/class-order-picking-for-woocommerce-admin.php:1114
+#: includes/class-order-picking-for-woocommerce-order-picking.php:240
+#: includes/class-order-picking-for-woocommerce-screens.php:153
+msgid "Loading orders, please wait."
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:211
+msgid "Product Fulfillment"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:217
+#, php-format
+msgid "Product Fulfillment <span class=\"count\">(%s)</span>"
+msgid_plural "Product Fulfillment <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:235
+msgid "Order Fulfillment"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:250
+msgid "General Settings"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:259
+#: admin/class-order-picking-for-woocommerce-admin.php:260
+msgid "General settings"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:349
+msgid "Order Statuses for Picking"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:357
+msgid "Staff Frontend Fulfillment Panel"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:365
+msgid ""
+"Automatically set the order to \"awaiting fulfillment\" when the order "
+"status changes"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:373
+msgid ""
+"Automatically update the order status on the action of waiting for "
+"fulfillment"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:381
+msgid "Automatically update the order status on the action of fulfilling"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:389
+msgid ""
+"Automatically update the order status on the action of partially fulfilling"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:397
+msgid "Automatically update the order status on the action of not fulfilling"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:405
+msgid ""
+"Automatically update the order status on the action of canceling fulfillment"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:450
+#: admin/class-order-picking-for-woocommerce-admin.php:486
+#: admin/class-order-picking-for-woocommerce-admin.php:521
+#: admin/class-order-picking-for-woocommerce-admin.php:554
+#: admin/class-order-picking-for-woocommerce-admin.php:587
+#: admin/class-order-picking-for-woocommerce-admin.php:650
+msgid "Select status"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:460
+msgid ""
+"Choose an order status that is automatically set when the order is not "
+"fulfilled."
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:497
+msgid ""
+"Choose an order status that automatically marks an order as waiting to be "
+"fulfilled."
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:532
+msgid ""
+"Choose an order status that is automatically set when the order is waiting "
+"to be fulfilled."
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:565
+msgid ""
+"Choose an order status that is automatically set when the order is fulfilled."
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:598
+msgid ""
+"Choose an order status that is automatically set when the order is partially "
+"fulfilled."
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:661
+msgid ""
+"Choose an order status that is automatically set when the order fulfillment "
+"is canceled."
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:703
+msgid "Select"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:723
+msgid ""
+"To access the frontend fulfillment panel, please use the provided link. In "
+"order to log in, you must create a user account with the role of \"order "
+"picker\" specifically assigned to it."
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:750
+msgid "Select order picking statuses"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:773
+msgid "Choose the order statuses that allow for picking."
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:776
+msgid "New WooCommerce status for fulfillment."
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:892
+msgid "Developed by"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:892
+msgid "Premium"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:892
+msgid "Documents"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:913
+msgid "Picking Order"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:967
+#: includes/class-order-picking-for-woocommerce-screens.php:60
+msgid "Fulfillment"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:1018
+msgid "Filter By"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:1113
+msgid "Order picking"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:1131
+#: admin/class-order-picking-for-woocommerce-admin.php:1209
+msgid "Mark as awaiting fulfillment"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:1132
+#: admin/class-order-picking-for-woocommerce-admin.php:1210
+#: includes/class-order-picking-for-woocommerce-order-picking.php:542
+msgid "Cancel fulfillment"
+msgstr ""
+
+#: admin/class-order-picking-for-woocommerce-admin.php:1206
+msgid "Change status to order fulfillment"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-activator.php:40
+msgid "Order Picker"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-login.php:60
+msgid "Login to the Fulfillment Manager"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-login.php:61
+msgid "Enter your details below to continue."
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-login.php:65
+#: includes/class-order-picking-for-woocommerce-password.php:158
+msgid "Email"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-login.php:66
+msgid "Password"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-login.php:69
+#: includes/class-order-picking-for-woocommerce-password.php:204
+msgid "Login"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-login.php:73
+#: includes/class-order-picking-for-woocommerce-password.php:165
+msgid "Loading"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-login.php:76
+msgid "Forgot password?"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-login.php:100
+#: includes/class-order-picking-for-woocommerce-password.php:37
+#: includes/class-order-picking-for-woocommerce-password.php:97
+msgid ""
+"Security Check Failure - This alert may occur when you are logged in as an "
+"administrator and as a order picker on the same browser and the same device. "
+"If you want to work on both panels please try to work with two different "
+"browsers."
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-login.php:112
+msgid "The email field is empty."
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-login.php:116
+msgid "The password field is empty."
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-login.php:120
+msgid "The email is invalid."
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-login.php:127
+#: includes/class-order-picking-for-woocommerce-login.php:132
+msgid "Either the email or password you entered is invalid."
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-login.php:135
+#: includes/class-order-picking-for-woocommerce-password.php:58
+msgid "You are not a registered order picker."
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-order-picking.php:43
+msgid "Unfulfillment"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-order-picking.php:44
+msgid "Partially Fulfilled"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-order-picking.php:45
+msgid "Fulfilled"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-order-picking.php:249
+msgid "Please choose orders."
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-order-picking.php:270
+msgid "Phone"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-order-picking.php:500
+#: includes/class-order-picking-for-woocommerce-order-picking.php:699
+#: includes/class-order-picking-for-woocommerce-order-picking.php:1047
+#: includes/class-order-picking-for-woocommerce-picklist.php:115
+#: includes/class-order-picking-for-woocommerce-picklist.php:443
+#: includes/class-order-picking-for-woocommerce-picklist.php:717
+#: includes/class-order-picking-for-woocommerce-reports.php:184
+#: includes/class-order-picking-for-woocommerce-reports.php:306
+#: includes/class-order-picking-for-woocommerce-reports.php:435
+#: includes/class-order-picking-for-woocommerce-reports.php:572
+#: includes/class-order-picking-for-woocommerce-reports.php:714
+#: includes/class-order-picking-for-woocommerce-reports.php:837
+msgid "No results found."
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-order-picking.php:526
+#: includes/class-order-picking-for-woocommerce-picklist.php:139
+#, php-format
+msgid "Order #%s"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-order-picking.php:528
+msgid "Status:"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-order-picking.php:531
+msgid "Payment via "
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-order-picking.php:534
+#: includes/class-order-picking-for-woocommerce-order-picking.php:790
+#: includes/class-order-picking-for-woocommerce-order-picking.php:884
+#: includes/class-order-picking-for-woocommerce-order-picking.php:1152
+#: includes/class-order-picking-for-woocommerce-order-picking.php:1219
+#: includes/class-order-picking-for-woocommerce-order-picking.php:1414
+msgid "Quantity:"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-order-picking.php:535
+#: includes/class-order-picking-for-woocommerce-order-picking.php:791
+#: includes/class-order-picking-for-woocommerce-order-picking.php:1153
+msgid "Collected:"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-order-picking.php:537
+msgid "Billing Address:"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-order-picking.php:539
+msgid "Shipping Address:"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-order-picking.php:541
+#, php-format
+msgid "Mark as %s"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-order-picking.php:555
+#, php-format
+msgid ""
+"Note: %s orders cannot be picked as they are not included in the fulfillment "
+"statuses or are not marked as \"Awaiting fulfillment\""
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-order-picking.php:783
+#, php-format
+msgid "In %1$s"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-order-picking.php:792
+#: includes/class-order-picking-for-woocommerce-order-picking.php:1154
+msgid "Mark as collected"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-order-picking.php:856
+#: includes/class-order-picking-for-woocommerce-order-picking.php:872
+#: includes/class-order-picking-for-woocommerce-order-picking.php:1191
+#: includes/class-order-picking-for-woocommerce-order-picking.php:1207
+#: includes/class-order-picking-for-woocommerce-order-picking.php:1363
+#: includes/class-order-picking-for-woocommerce-order-picking.php:1379
+#, php-format
+msgid "%1$s product/s picked by %2$s on %3$s %4$s"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-order-picking.php:899
+#: includes/class-order-picking-for-woocommerce-order-picking.php:1234
+#: includes/class-order-picking-for-woocommerce-order-picking.php:1431
+msgid "How many items did you collect?"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-order-picking.php:901
+#: includes/class-order-picking-for-woocommerce-order-picking.php:1236
+#: includes/class-order-picking-for-woocommerce-order-picking.php:1433
+msgid "Note"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-order-picking.php:903
+#: includes/class-order-picking-for-woocommerce-order-picking.php:1238
+#: includes/class-order-picking-for-woocommerce-order-picking.php:1435
+#: includes/class-order-picking-for-woocommerce-password.php:161
+#: includes/class-order-picking-for-woocommerce-password.php:285
+#: includes/class-order-picking-for-woocommerce-password.php:289
+msgid "Send"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-order-picking.php:904
+#: includes/class-order-picking-for-woocommerce-order-picking.php:1239
+#: includes/class-order-picking-for-woocommerce-order-picking.php:1436
+msgid "Cancel"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-order-picking.php:908
+#: includes/class-order-picking-for-woocommerce-order-picking.php:1243
+#: includes/class-order-picking-for-woocommerce-picklist.php:436
+#: includes/class-order-picking-for-woocommerce-picklist.php:530
+#: includes/class-order-picking-for-woocommerce-picklist.php:711
+#: includes/class-order-picking-for-woocommerce-picklist.php:784
+msgid "Order #"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-order-picking.php:916
+#: includes/class-order-picking-for-woocommerce-order-picking.php:1142
+#: includes/class-order-picking-for-woocommerce-order-picking.php:1410
+msgid "SKU:"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-password.php:44
+msgid "Email field is empty."
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-password.php:48
+msgid "The email you entered is invalid."
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-password.php:54
+msgid "The email you entered was not found."
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-password.php:64
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-password.php:66
+#, php-format
+msgid "Email: %s"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-password.php:67
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-password.php:68
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-password.php:72
+msgid "Password reset"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-password.php:74
+msgid "An error occurred while sending mail."
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-password.php:108
+msgid "The new password field is empty."
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-password.php:112
+msgid "The confirm password field is empty."
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-password.php:116
+msgid "New password and confirm password do not match."
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-password.php:126
+msgid ""
+"This key is invalid or has already been used. Please reset your password "
+"again if needed."
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-password.php:154
+msgid "Forgot your password?"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-password.php:155
+msgid "Enter your email, and we'll email you a link to change your password."
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-password.php:169
+msgid "Back to login"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-password.php:201
+msgid "Your password has been changed successfully."
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-password.php:202
+msgid "Please click on the login button to login with your new password"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-password.php:233
+msgid "Reset password"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-password.php:234
+msgid ""
+"A password reset link was sent. Click the link in the email to create a new "
+"password. If you do not receive an email within 5 minutes, please click on "
+"the resend email button below."
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-password.php:236
+msgid "Resend email"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-password.php:239
+#: includes/class-order-picking-for-woocommerce-password.php:294
+msgid "Back to forgot password"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-password.php:277
+msgid "Create a new password."
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-password.php:279
+msgid "New password"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-password.php:280
+msgid "Confirm password"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-picklist.php:100
+#: includes/class-order-picking-for-woocommerce-picklist.php:250
+msgid "Picklist by Order"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-picklist.php:101
+msgid ""
+"The picklist display orders in the \"fulfillment\" statuses that are "
+"specifically marked as \"awaiting fulfillment\" sorted by order."
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-picklist.php:109
+#: includes/class-order-picking-for-woocommerce-picklist.php:145
+#: includes/class-order-picking-for-woocommerce-picklist.php:437
+#: includes/class-order-picking-for-woocommerce-picklist.php:531
+#: includes/class-order-picking-for-woocommerce-picklist.php:712
+#: includes/class-order-picking-for-woocommerce-picklist.php:785
+#: includes/class-order-picking-for-woocommerce-reports.php:426
+#: includes/class-order-picking-for-woocommerce-reports.php:559
+#: includes/class-order-picking-for-woocommerce-reports.php:701
+#: includes/class-order-picking-for-woocommerce-reports.php:826
+msgid "Product"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-picklist.php:110
+#: includes/class-order-picking-for-woocommerce-picklist.php:146
+#: includes/class-order-picking-for-woocommerce-picklist.php:438
+#: includes/class-order-picking-for-woocommerce-picklist.php:532
+msgid "SKU"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-picklist.php:111
+#: includes/class-order-picking-for-woocommerce-picklist.php:147
+#: includes/class-order-picking-for-woocommerce-picklist.php:439
+#: includes/class-order-picking-for-woocommerce-picklist.php:533
+#: includes/class-order-picking-for-woocommerce-picklist.php:713
+#: includes/class-order-picking-for-woocommerce-picklist.php:786
+msgid "Variation"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-picklist.php:112
+#: includes/class-order-picking-for-woocommerce-picklist.php:148
+#: includes/class-order-picking-for-woocommerce-picklist.php:440
+#: includes/class-order-picking-for-woocommerce-picklist.php:534
+#: includes/class-order-picking-for-woocommerce-picklist.php:714
+#: includes/class-order-picking-for-woocommerce-picklist.php:787
+#: includes/class-order-picking-for-woocommerce-reports.php:291
+#: includes/class-order-picking-for-woocommerce-reports.php:560
+#: includes/class-order-picking-for-woocommerce-reports.php:702
+msgid "Quantity"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-picklist.php:227
+#: includes/class-order-picking-for-woocommerce-picklist.php:599
+#: includes/class-order-picking-for-woocommerce-picklist.php:837
+#: includes/class-order-picking-for-woocommerce-reports.php:480
+#: includes/class-order-picking-for-woocommerce-reports.php:622
+#: includes/class-order-picking-for-woocommerce-reports.php:748
+#: includes/class-order-picking-for-woocommerce-reports.php:865
+msgid "Total"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-picklist.php:251
+#: includes/class-order-picking-for-woocommerce-picklist.php:702
+msgid "Picklist by Product"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-picklist.php:252
+#: includes/class-order-picking-for-woocommerce-picklist.php:426
+msgid "Picklist by Category"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-picklist.php:287
+#: includes/class-order-picking-for-woocommerce-reports.php:75
+msgid "Print"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-picklist.php:290
+#: includes/class-order-picking-for-woocommerce-reports.php:78
+msgid "Loading report, please wait."
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-picklist.php:427
+msgid ""
+"The picklist display products in the \"fulfillment\" statuses that are "
+"specifically marked as \"awaiting fulfillment\" sorted by category."
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-picklist.php:522
+#, php-format
+msgid "( In %1$s )"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-picklist.php:703
+msgid ""
+"The picklist display products in the \"fulfillment\" statuses that are "
+"specifically marked as \"awaiting fulfillment\" sorted by product."
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-picklist.php:824
+msgid "#"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-reports.php:32
+#: includes/class-order-picking-for-woocommerce-reports.php:283
+msgid "Order Fulfillment Report"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-reports.php:33
+#: includes/class-order-picking-for-woocommerce-reports.php:695
+msgid "Product Fulfillment Report"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-reports.php:34
+#: includes/class-order-picking-for-woocommerce-reports.php:551
+msgid "Order and Product Fulfillment Report"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-reports.php:35
+#: includes/class-order-picking-for-woocommerce-reports.php:418
+msgid "Missing Order and Product Report"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-reports.php:36
+#: includes/class-order-picking-for-woocommerce-reports.php:166
+msgid "Missing Order Items Report"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-reports.php:37
+#: includes/class-order-picking-for-woocommerce-reports.php:819
+msgid "Missing Items Report"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-reports.php:167
+#: includes/class-order-picking-for-woocommerce-reports.php:419
+#: includes/class-order-picking-for-woocommerce-reports.php:820
+msgid ""
+"The report shows missing items marked as partial or unfulfilled by the order "
+"picker for orders in the \"fulfillment\" statuses that not labeled as "
+"\"fulfilled\"."
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-reports.php:172
+#: includes/class-order-picking-for-woocommerce-reports.php:289
+#: includes/class-order-picking-for-woocommerce-reports.php:424
+#: includes/class-order-picking-for-woocommerce-reports.php:557
+msgid "Order"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-reports.php:173
+#: includes/class-order-picking-for-woocommerce-reports.php:290
+#: includes/class-order-picking-for-woocommerce-reports.php:425
+#: includes/class-order-picking-for-woocommerce-reports.php:558
+msgid "Customer"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-reports.php:174
+#: includes/class-order-picking-for-woocommerce-reports.php:427
+#: includes/class-order-picking-for-woocommerce-reports.php:827
+msgid "Missing items"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-reports.php:212
+#: includes/class-order-picking-for-woocommerce-reports.php:344
+msgid "Total:"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-reports.php:284
+msgid ""
+"The report displays orders in the \"fulfillment\" statuses and their "
+"corresponding labels."
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-reports.php:292
+msgid "Weight"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-reports.php:293
+#: includes/class-order-picking-for-woocommerce-reports.php:561
+#: includes/class-order-picking-for-woocommerce-reports.php:703
+msgid "Collected"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-reports.php:294
+#: includes/class-order-picking-for-woocommerce-reports.php:562
+msgid "Not Collected"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-reports.php:552
+msgid ""
+"The report displays orders and products in the \"fulfillment\" statuses and "
+"their corresponding labels."
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-reports.php:696
+msgid ""
+"The report displays order products in the \"fulfillment\" statuses and their "
+"corresponding labels."
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-reports.php:704
+msgid "Not collected"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-screens.php:71
+msgid "Account"
+msgstr ""
+
+#: includes/class-order-picking-for-woocommerce-screens.php:78
+msgid "Log out"
+msgstr ""
+
+#: includes/functions.php:53 includes/functions.php:57
+msgid "Premium Feature"
+msgstr ""
+
+#: includes/functions.php:58
+msgid "You Discovered a Premium Feature!"
+msgstr ""
+
+#: includes/functions.php:59
+msgid "Upgrading to Premium will unlock it."
+msgstr ""
+
+#: includes/functions.php:60
+msgid "UNLOCK PREMIUM"
+msgstr ""
